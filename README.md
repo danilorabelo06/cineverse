@@ -33,7 +33,7 @@ Este projeto faz parte do meu processo de aprendizado em desenvolvimento web e t
 
 O projeto pode ser acessado pelo GitHub Pages:
 
-**Em breve:** [Cineverse](https://danilera1910.github.io/cineverse/)
+**Em breve:** [Cineverse](https://danilorabelo06.github.io/cineverse/)
 
 ---
 
